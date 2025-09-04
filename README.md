@@ -19,11 +19,6 @@ A beginner-friendly collection of Jupyter notebooks and resources to help you ma
 
 3. **Run a sample notebook**
    Start Jupyter Notebook or Lab:
-```bash
-   jupyter notebook
-````
-
-   Open `01_simple_classification.ipynb` to train and test a classifier in under 10 lines of code.
 
 ---
 
