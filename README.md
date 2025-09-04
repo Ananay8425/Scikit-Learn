@@ -65,22 +65,7 @@ print(f"Test set accuracy: {accuracy_score(y_test, preds):.2f}")
 
 ---
 
-# Want to Contribute?
-
-Contributions are welcome!
-
-* Open an **issue** if you spot bugs, want a new tutorial, or need help.
-* Submit a **pull request** with improvements or additional examples.
-* Label beginner-friendly tasks with `good first issue` or `help wanted`.
-* Contributors will be recognized in an upcoming section.
-
----
-
 ## ⭐ Start Learning Today
 
 Spark your machine learning journey with hands-on scikit-learn examples.
 Don’t forget to **star ⭐ the repo** if you find it helpful!
-
-```
-Do you also want me to create a **`requirements.txt`** file template for your repo (with scikit-learn, numpy, pandas, matplotlib, etc.) so learners can run your notebooks without dependency issues?
-```
